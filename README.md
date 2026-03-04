@@ -1,8 +1,32 @@
 # Regional_Sales_Dashboard
-The dashboard highlights store performance through multiple lenses. Together, these visualizations provide insights for identifying high and low performing stores, guiding regional strategy, and supporting data driven decisions.
+The interactive dashboard highlights store performance through multiple lenses. Together, these visualizations support analyzing sales performance, profitability, and cost distribution across regions, states, and individual stores.
 
 ## Dashboard Approach
-Using the same dataset, I developed two dashboard versions with slightly different analytical perspectives and design approaches.
+Using the same dataset, I developed two dashboard versions with slightly different analytical perspectives and design approaches. The Regional Sales Dashboard helps stakeholders monitor overall business performance while drilling down into regional and store-level insights.
+
+The dashboard highlights:
+
+-Total Sales
+
+-Total Profit
+
+-Total Costs
+
+-Profit performance by state
+
+-Profit distribution across stores
+
+-Store-level profitability comparison
+
+With this dashboard, users can answer questions like:
+
+-Which states generate the highest profit?
+
+-Are profits concentrated in a few stores or evenly distributed?
+
+-Which stores are performing above/below average?
+
+-How do sales, costs, and profit compare overall?
 
 ### Dashboard Example 1
 ![First Dashboard](First_dashboard_preview.png)
